@@ -2,7 +2,7 @@
 
 <img src="assets/banner.jpg" alt="Banner" width="80%"/>
 
-# Sup' , I'm Melissa B
+# Sup' I'm Melissa !
 
 **Software Engineer — Full-Stack Development & Applied AI**
 
