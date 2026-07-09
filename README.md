@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/1200x300/1a1a2e/ffffff?text=Your+Banner+Here" alt="Banner" width="100%"/>
+<img src="assets/banner.jpg" alt="Banner" width="100%"/>
 
 # Melissa Boulsan
 
