@@ -16,7 +16,7 @@
 
 ### About
 
-Software Engineer (M.Sc. in Software Engineering & Intelligent Systems — Université Abdelhamid Mehri Constantine 2) with a full-stack background across web, mobile, and machine learning. Built **NissaIA**, an AI-powered clinical decision support platform for early PCOS diagnosis, from ML pipeline to production-style microservices architecture.
+Software Engineer with a full-stack background across web, mobile, and machine learning. Built **NissaIA**, an AI-powered clinical decision support platform for early PCOS diagnosis, from ML pipeline to production-style microservices architecture.
 
 Interested in applied AI, clinical/health-tech products, and building things end-to-end — from data pipeline to interface.
 
