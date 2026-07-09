@@ -75,8 +75,8 @@ Interested in applied AI, clinical/health-tech products, and building things end
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=melbouls&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melbouls&layout=compact&hide_border=true" alt="Top Languages" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=molosso&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molosso&layout=compact&hide_border=true" alt="Top Languages" width="40%"/>
 
 </div>
 
