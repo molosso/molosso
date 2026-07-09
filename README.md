@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="Banner" width="100%"/>
+<img src="assets/banner.jpg" alt="Banner" width="80%"/>
 
-# Melissa Boulsan
+# Sup' , I'm Melissa B
 
 **Software Engineer — Full-Stack Development & Applied AI**
 
