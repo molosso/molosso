@@ -79,7 +79,6 @@ Interested in applied AI, clinical/health-tech products, and building things end
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molosso&layout=compact&hide_border=true" alt="Top Languages" width="40%"/>
 
 </div>
-
 ---
 
 ### Featured Project
