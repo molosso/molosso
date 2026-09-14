@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=173EBE&center=true&vCenter=true&width=435&lines=%E2%99%A1Mel%E2%99%A1;Software+ENGINEEEER)](https://git.io/typing-svg)
 
-**Software Engineer — Full-Stack Development & Applied AI**
+**Software Engineer  Full-Stack Development & Applied AI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/melbouls)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-sara-boulsan-2a88b2332/)
