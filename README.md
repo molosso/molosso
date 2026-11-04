@@ -1,4 +1,4 @@
-# Melissa Boulsan
+# Mel
 
 ![](https://img.shields.io/badge/Software%20Engineer-black?style=flat-square)
 ![](https://img.shields.io/badge/Artificial%20Intelligence-blue?style=flat-square)
