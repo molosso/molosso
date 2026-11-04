@@ -97,7 +97,11 @@ Interested in designing scalable architectures, experimenting with new technolog
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=molosso&layout=compact&hide_border=true" width="40%"/>
 
 </div>
+## Coding Activity
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=molosso&hide_border=true"/>
+</p>
 ---
 
 ## Featured
